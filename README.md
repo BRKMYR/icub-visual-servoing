@@ -126,4 +126,5 @@ This repository was created on February 18, 2016 as part of early student experi
 
 ## License
 
-No license file is included in this repository.
+MIT, see [LICENSE](LICENSE). The modules follow the port and image patterns of the YARP
+and iCub tutorials (YARP is BSD 3-Clause).
